@@ -4,7 +4,7 @@
 
 - 🧠 Exploring **Medical Image Processing and Segmentation**.
 
-- 🌱 I’m currently learning **The principles of surgical robotics and exploring new innovations in medical technology**
+- 🌱 I’m currently learning **The principles of surgical robotics and exploring new innovations in medical technolog**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on projects that advance surgical robotics and automation in healthcare.**
 
